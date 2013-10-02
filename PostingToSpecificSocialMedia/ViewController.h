@@ -7,7 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Social/Social.h>
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UITextView *textView;
+
+- (IBAction)twitter:(id)sender;
+- (IBAction)facebook:(id)sender;
 @end

@@ -22,6 +22,9 @@
 		5339DD5317FC7BF3000AC456 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5339DD5117FC7BF3000AC456 /* InfoPlist.strings */; };
 		5339DD5517FC7BF3000AC456 /* PostingToSpecificSocialMediaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5339DD5417FC7BF3000AC456 /* PostingToSpecificSocialMediaTests.m */; };
 		5339DD5F17FC7C93000AC456 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5339DD5E17FC7C93000AC456 /* Social.framework */; };
+		5339DD6117FC7EB5000AC456 /* orange-facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 5339DD6017FC7EB5000AC456 /* orange-facebook.png */; };
+		5339DD6317FC7ED7000AC456 /* dark-pink-twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = 5339DD6217FC7ED7000AC456 /* dark-pink-twitter.png */; };
+		5339DD6517FC80B8000AC456 /* IMG_4295.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5339DD6417FC80B8000AC456 /* IMG_4295.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +58,9 @@
 		5339DD5217FC7BF3000AC456 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5339DD5417FC7BF3000AC456 /* PostingToSpecificSocialMediaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PostingToSpecificSocialMediaTests.m; sourceTree = "<group>"; };
 		5339DD5E17FC7C93000AC456 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
+		5339DD6017FC7EB5000AC456 /* orange-facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "orange-facebook.png"; sourceTree = "<group>"; };
+		5339DD6217FC7ED7000AC456 /* dark-pink-twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dark-pink-twitter.png"; sourceTree = "<group>"; };
+		5339DD6417FC80B8000AC456 /* IMG_4295.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_4295.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +136,9 @@
 		5339DD3017FC7BF3000AC456 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5339DD6017FC7EB5000AC456 /* orange-facebook.png */,
+				5339DD6417FC80B8000AC456 /* IMG_4295.jpg */,
+				5339DD6217FC7ED7000AC456 /* dark-pink-twitter.png */,
 				5339DD3117FC7BF3000AC456 /* PostingToSpecificSocialMedia-Info.plist */,
 				5339DD3217FC7BF3000AC456 /* InfoPlist.strings */,
 				5339DD3517FC7BF3000AC456 /* main.m */,
@@ -233,7 +242,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				5339DD4217FC7BF3000AC456 /* Images.xcassets in Resources */,
+				5339DD6117FC7EB5000AC456 /* orange-facebook.png in Resources */,
 				5339DD3417FC7BF3000AC456 /* InfoPlist.strings in Resources */,
+				5339DD6517FC80B8000AC456 /* IMG_4295.jpg in Resources */,
+				5339DD6317FC7ED7000AC456 /* dark-pink-twitter.png in Resources */,
 				5339DD3D17FC7BF3000AC456 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
